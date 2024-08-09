@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #  - {file: "README.md", title: About me}
   - {file: "Pankaj.pdf", title: CV, icon: home}
   - {title: "FresnoCOG", url: "https://fresnocog.org"}
-  - {title: "Blog", file: "blog.md"}
+  - {title: "Blog", file: "blog.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:panku.2052@gmail.com"}
