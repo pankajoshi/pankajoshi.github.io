@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: Home}
-  - {file: "PCV.pdf", title: "About Me"}
+  - {file: "PCV.pdf", title: About Me}
   - {title: "Blog", file: "blog.md"}
   - {title: "FresnoCOG", url: "https://fresnocog.org"}
 
